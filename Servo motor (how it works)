@@ -1,0 +1,3 @@
+Servo motors have two types of actuators either rotary or linearthat allow precise control of both speed and acceleration.  
+The servo consists of a suitable motor for its release coupled with a sensor to review the upcoming signals regarding the position. 
+As for the way the servo motor works, according to the type of signal and its length, the servo rotates either clockwise or counterclockwise, and the rotation period is also determined according to the signals
